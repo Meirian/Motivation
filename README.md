@@ -6,13 +6,14 @@ Time, t, is measured in years since their thesis start date.
 
 ## Challenge
 
-1. Download and save the data set to your computer
+1. Download and save the data set to your computer, then import it into MATLAB
 2. Use the scatter function in MATLAB to plot the data
-3. Fit a polynomial model to the data *(Hint: you may need to try different degrees)*
+3. Fit a polynomial model to the data using the fit or polyfit functions in MATLAB
+   *Hint: you may need to try different degrees (quadratic, cubic...)*
 4. Plot your fitted model on your scatterplot
 5. Use the LaTeX interpreter to change the plot title to be Motivation as a function of time (t), using your fitted model
-6. Export your MATLAB code and plot to LaTeX
-7. Open the .tex file and compile it into a .pdf
+6. Export your MATLAB code and plot into LaTeX
+7. Open the .tex file and add a title, then compile it into a .pdf
 
 
 ## Data
