@@ -37,5 +37,3 @@ Time, t, is measured in years since their thesis start date.
 | 3.5  | 4.475      |
 | 3.75 | 5.585938   |
 | 4    | 6.6        |
-| 4.25 | 7.310937   |
-| 4.5  | 7.475      |
